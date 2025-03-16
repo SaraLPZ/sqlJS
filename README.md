@@ -17,4 +17,11 @@ npm install mysql
 
 ### Conexión
 
-Creamos la conexion mysql 
+Creamos la conexion mysql y copiamos el fichero de este repositorio.
+
+### Formas de poner el dato de mysql.
+
+Imprimir columna
+```
+console.log(lista[0].name);
+```
